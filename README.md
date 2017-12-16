@@ -24,7 +24,9 @@ python manage.py flush
 Thers is intially Admin :-
 
 Username  : admin
+
 Email : a@dm.in
+
 Password : 123456
 
 
