@@ -1,9 +1,9 @@
-#Optimal Scenario : 
+# Optimal Scenario : 
 1 - You make registration then clikc Back to login 
 2 - You login then find Chat Rooms created by Admin 
 3 - Admin can add Users , Create Rooms and Check if the user is staff only or normal also check if the room will be for staff only or for all 
 ---------------------------------
-#Achieved Scenario :
+# Achieved Scenario :
 1- Admin Add users manualy 
 2- Admin Create Rooms
 3- Users login to chat 
